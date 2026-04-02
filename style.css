@@ -103,3 +103,7 @@ body {
   margin-top: 10px;
   font-style: italic;
 }
+img {
+  max-width: 10%;
+  height: 90%;
+}
